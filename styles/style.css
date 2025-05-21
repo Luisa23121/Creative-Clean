@@ -212,7 +212,7 @@ li{
 .seccion6{
     background-color: #f97316;
     color: white;
-    border-top: 10px solid #030303; 
+    border-top: 10px solid #f97316; 
     /* box-shadow: #8e3904; */
     box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.3);
      
@@ -221,4 +221,395 @@ li{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+@media(max-width: 1279px){
+    .seccion2{
+        margin: 0px;
+    }
+
+    .caja2{
+        padding: 30px;
+        margin: 0px;
+    }
+    
+    .img1{
+        margin-left: 30px;
+    }
+
+    .caja5{
+        margin: 40px;
+    }
+}
+
+@media(max-width: 920px){
+    .seccion1{
+        height: 600px;
+    }
+
+    .titulo1{
+        font-size: 40px;
+        margin-bottom: 0px;
+    }
+
+    .titulo2{
+        padding: 10px;
+        margin-bottom: 100px;
+    }
+
+    .boton1{
+        margin-top: 0px;
+        margin-bottom: 80px;
+    }
+
+    .seccion2{
+        margin: 30px;
+    }
+
+    .titulo3{
+        font-size: 30px;
+        padding: 30px;
+        margin-top: 20px;
+    }
+
+    .parrafo1{
+        padding: 0px;
+        font-size: 18px;
+        margin-left: 30px;
+    }
+
+    .boton2{
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+
+    .img{
+        max-width: 100%;
+    }
+
+    .img1{
+        max-width: 100%;
+    }
+
+    .titulo4{
+        margin-left: 50px;
+        font-size: 30px;
+        padding: 20px;
+    }
+
+    .parrafo2{
+        margin-right: 0px;
+        margin-left: 50px;
+        padding: 20px;
+        font-size: 18px;
+    }
+
+    .boton3{
+        margin-left: 70px;
+    }
+    
+    .caja5{
+        margin: 50px;
+    }
+
+    .titulo5{
+        font-size: 30px;
+    }
+
+    .parrafo3{
+        font-size: 18px;
+    }
+}
+
+@media(max-width: 768px){
+    
+    .seccion1{
+        height: 500px;
+    }
+
+    .titulo1{
+        font-size: 25px;
+        margin-bottom: 0px;
+        margin: 10px;
+
+    }
+
+    .titulo2{
+        font-size: 18px;
+        padding: 10px;
+        margin-bottom: 100px;
+    }
+
+    .boton1{
+        margin-bottom: 100px;
+    }
+
+    .seccion2{
+        margin: 20px;
+
+    }
+
+    .caja1{
+        width: 40%;
+        padding: 0px;
+    }
+
+    .titulo3{
+        font-size: 20px;
+        margin-top: 20px;
+        padding: 0px;
+    }
+
+    .parrafo1{
+        font-size: 13px;
+        padding: 0px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+    .boton2{
+        margin-left: 0px;
+        padding: 8px 20px;
+    }
+
+    .boton1{
+        padding: 8px 20px;
+        margin-top: 20px;
+    }
+
+    .caja2{
+        padding: 10px;
+        width: 60%;
+        margin-left: 30px;
+    }
+
+    .img02{
+        max-width: 100%;
+    }
+
+    .caja3{
+            width: 50%;
+            padding: 10px;
+    }
+
+    .img1 {
+        margin-left: 10px;
+        max-width: 100%;
+}
+
+.caja3{
+    padding: 10px;
+}
+
+.caja4 {
+    width: 45%;
+}
+
+.titulo4 {
+    margin-left: 0px;
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+.parrafo2 {
+    margin-left: 0px;
+    padding: 10px;
+    font-size: 13px;
+    
+
+}
+
+.boton3 {
+    margin-top: 20px;
+    margin-left: 11px;
+    padding: 8px 20px;
+}
+
+.seccion4 {
+    height: 350px;
+}
+
+.caja5 {
+    margin: 20px;
+    padding-top: 55px;
+    width: 70%;
+
+}
+
+.titulo5 {
+    margin-top: 0px;
+    font-size: 20px;
+}
+.parrafo3 {
+    font-size: 12px;
+    margin-top: 30px;
+    width: 70%;
+}
+
+
+.boton4 {
+    padding: 8px 20px;
+    margin-top: 25px;
+}
+
+.seccion5{
+    font-size: 13px;
+}
+
+
+
+}
+
+@media(max-width: 480px){
+    .titulo1 {
+        font-size: 19px;
+        margin-bottom: 0px;
+        margin: 10px;
+ }
+
+    
+ .titulo2 {
+    font-size: 14px;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+
+.boton1 {
+    padding: 8px 20px;
+    margin-top: 0px;
+    margin-bottom: 150px;
+}
+
+.seccion2 {
+    margin: 8px;
+}
+
+
+.caja1 {
+    width: 30%;
+    padding: 0px;
+
+}
+
+
+.titulo3 {
+    font-size: 15px;
+    margin-top: 20px;
+    padding: 0px;
+}
+
+
+.parrafo1 {
+    font-size: 10px;
+    padding: 0px;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.boton2 {
+    margin-left: 0px;
+    padding: 6px 18px;
+    font-size: 10px;
+    margin-top: 15px;
+}
+
+.caja2 {
+    padding: 10px;
+    width: 70%;
+    margin-left: 30px;
+    margin: 0px;
+}
+
+.img{
+    max-width: 100%;
+}
+
+.caja3 {
+    padding-top: 10px;
+    width: 50%;
+    padding: 10px;
+}
+
+.img1 {
+    margin-left: 8px;
+    max-width: 100%;
+}
+
+
+.caja4 {
+    width: 45%;
+}
+
+.titulo4 {
+    margin-left: 0px;
+    font-size: 15px;
+    padding: 7px;
+}
+
+.parrafo2 {
+    margin-left: 0px;
+    padding: 7px;
+    font-size: 10px;
+}
+
+.boton3 {
+    margin-top: 10px;
+    margin-left: 11px;
+    padding: 6px 18px;
+    font-size: 10px;
+}
+
+.seccion4 {
+    height: 300px;
+}
+.caja5 {
+    margin: 10px;
+    padding-top: 45px;
+    width: 60%;
+}
+
+.titulo5 {
+    margin-top: 0px;
+    font-size: 15px;
+}
+
+
+.parrafo3 {
+    font-size: 10px;
+    margin-top: 30px;
+    width: 70%;
+}
+
+
+.boton4 {
+    padding: 6px 18px;
+    margin-top: 20px;
+    font-size: 10px;
+}
+
+
+.seccion5 {
+    font-size: 10px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 0px;
+    padding-left: 70px;
+    height: 300px;
+}
+
+.caja6{
+    margin-top: 22px;
+}
+
+h4{
+    margin-bottom: 20px;
+}
+
+.seccion6{
+    font-size: 12px;
+}
+
+
+        
 }
